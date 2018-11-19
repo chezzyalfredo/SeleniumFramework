@@ -1,0 +1,9 @@
+{
+	"testcaseName":"Testcase Name",
+	"steps": [
+		"invokeApplication",
+		"openSite"
+	],
+	"login":"LoginName",
+	"password":"Password"
+}
